@@ -1,0 +1,2 @@
+P001;Product_1;150.00;50;C001;Customer1;Y;6750.00
+P002;Product_2;80.00;50;C002;Customer2;Y;3600.00

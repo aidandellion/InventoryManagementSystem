@@ -1,0 +1,3 @@
+C001;Customer1;Y
+C002;Customer2;Y
+C003;Customer3;N
